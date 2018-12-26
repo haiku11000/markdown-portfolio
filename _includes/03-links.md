@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Slide show tutorial (http://haiku11000.github.io/github-slideshow)]
