@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite things.
+- roses and horses
+-bugs and hugs.
+coffee and water
